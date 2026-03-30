@@ -1,0 +1,30 @@
+Nome: Listagem de Filmes
+O nosso tema trata sobre alguns filmes que foram lançados no ano de 2019, apresentando o nome, gênero, país, nacionalidade(brasileira ou estrangeira), empresa distribuidora, público e renda.
+O total de registros são de 70 filmes e conta com 9 colunas.
+Na coluna: Público no ano de exibição, foram obtidas como valor mínimo: 6, valor máximo:1622344 e a média foi de:87214,05. 
+Na coluna: Renda(R$) no ano de exibição, foram obtidas como valor mínimo: 21, valor máximo:24330901 e a média foi de:1351881,59.
+Os resultados dos filtros da parte 3, são: FILTRO 1:
+Filmes com público maior que 100000
+Quantidade encontrada: 23
+Ano: 2019
+Título: A Batalha Das Correntes
+Gênero: Ficção
+Público: 19579.0
+Renda: 425304.0 
+FILTRO 2:
+Filmes com renda maior que 1.000.000
+Quantidade encontrada: 28
+Ano: 2019
+Título: 3 Faces
+Gênero: Ficção
+Público: 6289.0
+Renda: 103805.0
+FILTRO 3:
+Filmes com público > 50000 e renda > 500000
+Quantidade encontrada: 29
+Ano: 2019
+Título: 3 Faces
+Gênero: Ficção
+Público: 6289.0
+Renda: 103805.0
+Ao analisarmos nosso dataset, observamos que todos os filmes são do ano de 2019, a maioria dos filmes são de ficção e os países que mais produziram filmes nesse dataset foram:Brasil com 23 filmes e o Estados Unidos com 20 filmes.
